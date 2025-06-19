@@ -178,7 +178,7 @@ The movement to open practices in science is known as the open science movement.
 The open science movement seeks to increase the replicability and accessibility of science through three primary methods.\index{open science}\index{replication}
 First, the open science movement seeks to improve transparency, i.e., what researchers are actually doing in their studies and analyses.\index{open science}
 Second, especially when researchers have confirmatory hypotheses, the open science movement seeks to restrict researcher degrees of freedom so that the researchers do what they said they would do rather than contingent analysis decisions to get a desired result.\index{open science}
-Similar to a garden of forking paths (see Figure \@ref(fig:gardenForkingPaths)), there are so many decision points in a study, and different decisions can lead to drastically different results.\index{open science}
+Similar to a garden of forking paths (see Figure \@ref(fig:gardenForkingPaths)), there are many decision points in a study, and different decisions can lead to drastically different results.\index{open science}
 Third, the open science movement seeks to prevent ethically questionable research practices.\index{open science}
 Ethically questionable research practices may include [@John2012]:\index{open science}\index{ethics!questionable research practices}\index{ethics}
 
