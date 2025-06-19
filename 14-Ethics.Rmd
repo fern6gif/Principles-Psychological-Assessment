@@ -203,7 +203,7 @@ Post-registration occurs after data analysis has begun.\index{open science}\inde
 
 Although pre-registration is most commonly used with confirmatory research in which you have a directional hypothesis, you can also pre-register exploratory research in which you have no directional hypothesis.\index{open science}\index{pre-registration}
 Pre-registration helps to make it more explicit what tests are confirmatory (based on a priori directional hypotheses) and which are exploratory.\index{open science}\index{pre-registration}
-It is important to interpret the results of confirmatory and exploratory tests differently, because you are more likely to get false positive results if conducting lots of exploratory tests.\index{open science}\index{pre-registration}
+It is important to interpret the results of confirmatory and exploratory tests differently because you are more likely to get false positive results if conducting many exploratory tests.\index{open science}\index{pre-registration}
 You can also pre-register decision trees that allow flexibility for multiple approaches depending on the data.\index{open science}\index{pre-registration}
 
 Some journals see the value of pre-registered studies and publish registered reports.\index{open science}\index{pre-registration}
