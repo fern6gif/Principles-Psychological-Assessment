@@ -207,7 +207,7 @@ It is important to interpret the results of confirmatory and exploratory tests d
 You can also pre-register decision trees that allow flexibility for multiple approaches depending on the data.\index{open science}\index{pre-registration}
 
 Some journals see the value of pre-registered studies and publish registered reports.\index{open science}\index{pre-registration}
-A registered report is a study that is evaluated based on the pre-registered methods, hypotheses, and data analysis plan, and if the pre-registered study is accepted, the eventual paper will be accepted (as long as the researchers followed the pre-registered plan) regardless of whether the findings supported the hypotheses.\index{open science}\index{pre-registration}
+A registered report is a study that is evaluated based on the pre-registered methods, hypotheses, and data analysis plan, and if the pre-registered study is accepted, the eventual paper will be accepted (as long as the researchers followed the pre-registered plan), regardless of whether the findings supported the hypotheses.\index{open science}\index{pre-registration}
 Registered reports of exploratory analyses are sometimes called exploratory reports.\index{open science}\index{pre-registration}
 
 There are many tools that aim to advance the open science movement.\index{open science}
