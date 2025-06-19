@@ -15,7 +15,7 @@ It is important to get full informed consent from clients or participants before
 
 ### Beneficence {#beneficence}
 
-The principle of beneficence is about maximizing benefit and minimizing harm, similar to the aphorism, "First, do no harm".\index{ethics}\index{Belmont report}\index{beneficence}
+The principle of beneficence is about maximizing benefit and minimizing harm, similar to the aphorism, "First, do no harm."\index{ethics}\index{Belmont report}\index{beneficence}
 Clients and participants have the prerogative to make choices about whether to receive a procedure, so they need to know the benefits and harm of each procedure.\index{ethics}\index{Belmont report}\index{beneficence}
 Just having the intent to help is not enough—you also need to be using a helpful technique and to have the knowledge of how to implement the technique.\index{ethics}\index{Belmont report}\index{beneficence}
 
