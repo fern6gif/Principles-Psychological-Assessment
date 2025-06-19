@@ -113,7 +113,7 @@ The current version of the APA Ethics code was published in 2007 and is availabl
 ### Use of Assessments {#useOfAssessments-APA}
 
 Section 9.02 describes ethics guidelines regarding the use of assessments.\index{ethics!APA Ethics Code}
-It notes to use assessments "in light of research or evidence".\index{ethics!APA Ethics Code}
+It notes to use assessments "in light of research or evidence."\index{ethics!APA Ethics Code}
 But how would research and evidence not go together?!\index{ethics!APA Ethics Code}
 This phrase from the APA Ethics Code suggests that some forms of non-research-based evidence have equal footing with research in terms of deciding what assessments to use.\index{ethics!APA Ethics Code}
 I would argue that assessments should be selected based on the best available scientific evidence.\index{ethics!APA Ethics Code}
