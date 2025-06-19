@@ -87,7 +87,7 @@ Ethical issues in psychological assessment are also discussed by @Bersoff2012 an
 
 ### Competence {#competence-APA}
 
-Section 2 of the APA Ethics Code notes that you should only act withing the boundaries of your competence.\index{ethics!APA Ethics Code}
+Section 2 of the APA Ethics Code notes that you should only act within the boundaries of your competence.\index{ethics!APA Ethics Code}
 It is also important to be aware of and report conflicts of interest.\index{ethics!APA Ethics Code}
 
 ### Bases for Assessments {#basesForAssessments-APA}
