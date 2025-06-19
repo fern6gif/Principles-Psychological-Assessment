@@ -171,7 +171,7 @@ Recognize limitations in the recommendations.\index{report writing}
 ## Open Science {#openScience}
 
 There has been a replication crisis in psychology and social science, in which the findings from many studies have failed to replicate when independent researchers attempt to replicate the studies' findings [@OSC2015].\index{open science}\index{replication}\index{replication!failure to replicate}
-Due to the replication crisis, there has been a movement toward open, transparent science where researchers pre-register their methods, and share their data and analysis scripts.\index{open science}\index{replication}\index{replication!failure to replicate}
+Due to the replication crisis, there has been a movement toward open, transparent science in which researchers pre-register their methods, and share their data and analysis scripts.\index{open science}\index{replication}\index{replication!failure to replicate}
 Open practices reduce threats to replicability and increase the public accessibility of science.\index{open science}\index{replication}
 The movement to open practices in science is known as the open science movement.\index{open science}
 
