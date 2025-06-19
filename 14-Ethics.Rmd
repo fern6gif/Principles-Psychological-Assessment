@@ -237,7 +237,7 @@ For instance, there may be important ways needed to adapt open science and pre-r
 ## Conclusion {#conclusion-ethics}
 
 According to the [Belmont Report](#belmontReport), professional ethics includes [respect for persons](#respectForPersons), [beneficence](#beneficence), and [justice](#justice).\index{ethics}\index{Belmont report}\index{respect for persons}\index{beneficence}\index{justice}
-It is also important to follow the APA Ethics Code [@Association2017] and AERA guidelines (@AERA2014).\index{ethics!APA Ethics Code}\index{Standards for Educational and Psychological Testing}
+It is important to follow the APA Ethics Code [@Association2017] and AERA guidelines (@AERA2014).\index{ethics!APA Ethics Code}\index{Standards for Educational and Psychological Testing}
 It is also important to produce a replicable science, which requires better science, including use of measures with strong psychometrics ([reliability](#reliability) and [validity](#validity)), in addition to not engaging in questionable research practices.\index{replication}\index{validity}\index{reliability}\index{ethics!questionable research practices}
 The [open science](#openScience) movement, including pre-registrations, sharing data, preprints, and research materials may help improve the replicability of science.\index{open science}\index{pre-registration}\index{preprint}
 
