@@ -162,7 +162,7 @@ Write every report as if it will be used in a court of law.\index{report writing
 You want it to be able to stand up in court.\index{report writing}
 Always identify the source of each inference (e.g., "Per the client's report, ...").\index{report writing}
 Do not write a self-reported statement as if it were a factual statement.\index{report writing}
-Instead of writing, "The client cut herself", write "The client reported that she cut herself".\index{report writing}
+Instead of writing, "The client cut herself," write "The client reported that she cut herself."\index{report writing}
 Do not overstate findings.\index{report writing}
 Information from reports can be used to make decisions that significantly impact people's lives, so it is important not to misrepresent information.\index{report writing}
 Recognize factors, such as language, culture, and the situation, that could have impacted the results, and note them in the report.\index{report writing}\index{culture}
