@@ -101,7 +101,7 @@ Work to reduce or eliminate bias.\index{ethics!APA Ethics Code}\index{bias}
 If using record review, explain the sources of information used for conclusions and recommendations.\index{ethics!APA Ethics Code}
 Maintain a high standard when recording assessment information.\index{ethics!APA Ethics Code}
 Psychologists have responsibility for maintenance and retention of their records.\index{ethics!APA Ethics Code}
-Records should describe the nature, delivery, progress, and results of services, and related fees.\index{ethics!APA Ethics Code}
+Records should describe the nature, delivery, progress, and results of services and related fees.\index{ethics!APA Ethics Code}
 Take reasonable steps to maintain confidentiality of records.\index{ethics!APA Ethics Code}
 When a client might want to know how records will be maintained, disclose record-keeping procedures in the informed consent.\index{ethics!APA Ethics Code}\index{confidentiality}
 The duration that full records should be kept depends on whether they are adults or children.\index{ethics!APA Ethics Code}
