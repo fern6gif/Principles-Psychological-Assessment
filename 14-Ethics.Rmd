@@ -38,7 +38,7 @@ First, don't do stupid things.
 With respect to assessement, for instance, do not use weak assessment instruments.
 The assessment techniques you use should be reliable and valid for the tasks and population of interest.
 They should be based on scientific research, not by professional judgment.
-Reliability and validity have many facets and all facets must be used in evaluating assessment techniques.\index{reliability}\index{validity}
+Reliability and validity have many facets, and all facets must be used in evaluating assessment techniques.\index{reliability}\index{validity}
 Reliability and validity are characteristics of *uses* of tests, not the tests themselves.\index{reliability}\index{validity}
 So, identify what is important, for example test–retest reliability versus internal consistency.\index{reliability!test–retest}\index{reliability!internal consistency}
 Reliability and validity may differ for populations that vary in characteristics (e.g., age, gender, education, ethnicity).\index{reliability}\index{validity}
